@@ -9,3 +9,7 @@ The difference with the original witget is that the number of connected users is
 `cp captive_portal_status.widget.php /usr/local/www/witgets/witgets`
 
 ![captive_portal](./img/captive_portal.png)
+
+## Filter
+
+![captive_portal](./img/captive_portal_filter.png)
